@@ -3,7 +3,7 @@
  
  
 
-<h4>1 : apt install python3-pip<h4> <br>
+<h4>1 : apt install python3-pip<h4>
 
 <h4>2 : pip install --upgrade pip<h4>
 
