@@ -1,5 +1,4 @@
 # Backup X-UI
-Sned x-ui.db to Telegram Bot
  
  
 apt install python3-pip
