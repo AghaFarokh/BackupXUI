@@ -1,4 +1,3 @@
-# run : screen python3 main.py
 import aiocron
 from pyrogram import Client
 
@@ -23,7 +22,9 @@ async def sendfile():
 if __name__ == '__main__':
     sendfile.start()
     sendfile.stop()
-
-
+    
+    
+    
+    
+    
 app.run()
-# Q&A : @Cloudipy
