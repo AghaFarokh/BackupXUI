@@ -5,11 +5,11 @@
  
 <h4>apt install python3-pip<h4> <br>
 
-<h4>pip install --upgrade pip<h4> <br>
+<h4>pip install --upgrade pip<h4>
 
-<h4>pip install pyrogram<h4> <br>
-<h4>pip install aiocron<h4> <br>
-<h4>pip install Tgcrypto<h4> <br>
+<h4>pip install pyrogram<h4>
+<h4>pip install aiocron<h4>
+<h4>pip install Tgcrypto<h4>
 
 
 
