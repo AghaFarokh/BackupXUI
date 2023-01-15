@@ -1,16 +1,16 @@
 # Backup X-UI
- Send x-ui.db File to Telegram Bot <br>
+ Send x-ui.db File to Telegram Bot <br><br>
  
  
  
-apt install python3-pip <br>
+<h4>apt install python3-pip<h4> <br>
 
-pip install --upgrade pip <br>
+<h4>pip install --upgrade pip<h4> <br>
 
-pip install pyrogram <br>
-pip install aiocron <br>
-pip install Tgcrypto <br>
+<h4>pip install pyrogram<h4> <br>
+<h4>pip install aiocron<h4> <br>
+<h4>pip install Tgcrypto<h4> <br>
 
 
 
-<h3>run : screen python3 main.py</h3>
+<h2>run : screen python3 main.py</h2>
